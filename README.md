@@ -1,2 +1,2 @@
 # dashboards-neuro
-Dashboards for some neural activity data.
+Dashboards for neural activity data in Mice.
